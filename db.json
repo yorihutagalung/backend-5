@@ -20,5 +20,17 @@
         {"id":18,"name":"Lotus Root","price":"1248.49"},
         {"id":19,"name":"Squash - Pattypan, Yellow","price":"1217.71"},
         {"id":20,"name":"Yeast - Fresh, Fleischman","price":"1340.47"}
+    ],
+    "history" : [
+      {"id":"a9eef868-14b0-433e-b5e0-9ac5ffafc232","title":"Beer - Mcauslan Apricot", "created_at":"2018-07-16","amount":"9436.57","status":2},
+      {"id":"bf41cb68-8bc2-4c92-aba3-a6c7eeef36d8","title":"Pie Filling - Apple","created_at":"2018-10-28","amount":"6880.53","status":1},
+      {"id":"2713614d-ea2a-4dc3-969f-c395f1558973","title":"Creme De Menth - White","created_at":"2019-10-13","amount":"8174.55","status":2},
+      {"id":"1fa89dcd-233b-46fa-985e-e3ebf4c45701","title":"Wine - Riesling Alsace Ac 2001","created_at":"2018-10-24","amount":"6802.71","status":0},
+      {"id":"2229770f-9010-405d-af2c-b52c417bab7a","title":"Wine - Saint Emilion Calvet","created_at":"2018-12-01","amount":"9548.94","status":2},
+      {"id":"0a178215-5c48-4aef-86ae-8d51341533fb","title":"Compound - Mocha","created_at":"2019-02-04","amount":"7299.68","status":1},
+      {"id":"ae693874-44f9-4262-9118-16305a45077e","title":"Spice - Peppercorn Melange","created_at":"2019-07-23","amount":"9647.83","status":0},
+      {"id":"e1c3516c-2e9e-4964-8b4f-19acb7abc666","title":"Juice - Cranberry, 341 Ml","created_at":"2019-12-19","amount":"5472.88","status":2},
+      {"id":"6bb0fbf6-1f5f-434d-8c20-5c2c90c50553","title":"Flour - Fast / Rapid","created_at":"2019-09-03","amount":"6312.73","status":1},
+      {"id":"0b5b8358-4249-48db-a4c3-c89b03bcb5ec","title":"Chocolate - Dark Callets","created_at":"2019-04-12","amount":"8296.47","status":0}
     ]
 }
